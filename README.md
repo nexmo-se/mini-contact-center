@@ -1,4 +1,4 @@
-# Mini Contact Center
+# Mini Contact Center - Still WIP at the moment
 
 This repository is named Mini Contact Center because it handles **basic call flows** and **standard call flows** similar to those for Contact Centers.
 
@@ -163,15 +163,14 @@ https://myserver-address/client-basic.html</br>
 e.g.</br>
 https://xxxxxx.ngrok.io/client-basic.html</br>
 or</br>
-https://myappname.herokuapp.com/client.html</br>
+https://myappname.herokuapp.com/client-basic.html</br>
 or</br>
-https://myserver.mycompany.com:40000/client.html</br>
+https://myserver.mycompany.com:40000/client-basic.html</br>
 
 You are ready to:</br>
-- Receive PSTN calls,</br>
-- Make PSTN calls,</br>
+- Receive calls from PSTN</br>
+- Make calls to PSTN,</br>
 - Receive or place a call to/from another WebRTC client (opened from the same link - logged in as a different user).</br>
-
 
 
 
