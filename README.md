@@ -8,7 +8,9 @@ Using a WebRTC client is also known as in-app voice.
 
 The sample code here allows one more WebRTC clients to receive calls from PSTN, to make calls to PSTN, and make or receive calls with another WebRTC client.
 
-Note: Sample **standard call flows server application** and **standard call flows webRTC client web page** will be included in this repository very soon.
+Note: At the moment, this repository<br>
+contains the sample **basic call flows server application** and **basic call flows webRTC client web page**,<br>
+the **standard call flows server application** and **standard call flows webRTC client web page** will be included in this repository very soon.
 
 ## Set up
 
